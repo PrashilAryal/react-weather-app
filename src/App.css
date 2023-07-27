@@ -1,0 +1,10 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.container h1 {
+  color: rgb(77, 3, 206);
+  display: flex;
+  justify-content: center;
+}
